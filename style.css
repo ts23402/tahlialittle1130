@@ -12,7 +12,7 @@ html {
 }
 body {
   background-color: lightblue;
-  width= 600px;
+  background-size: 600px;
   border-width: 2px;
   border-style: dotted;
   border-color: gray;
